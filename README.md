@@ -2,7 +2,7 @@
 
 ## What is the Proto Challenge
 
-It is a competitive challenge for business innovation organized by the HIT Foundation which allows the manufacturing world to compete with the most promising talents of Trentino research and the University of Trento to optimize and innovate its mechanical components.
+It is a competitive challenge for business innovation organized by HIT (Hub Innovazione Trentino) Foundation which allows the manufacturing world to compete with the most promising talents of Trentino research and the University of Trento to optimize and innovate its mechanical components.
 
 For about two months, different teams of students, supported by industry experts, work on the analysis and redesign of products proposed by companies selected on a competitive basis, using advanced software, carrying out analysis, topological optimization and industrial redesign in an additive key.
 
